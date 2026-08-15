@@ -1,4 +1,4 @@
-# Asynchronous Router Design & Verification
+# 1X3 Router Design & Verification
 
 A parameterizable 1-input / 3-output packet router (Verilog RTL), verified with a
 self-checking, layered SystemVerilog testbench — scoreboard, functional coverage,
